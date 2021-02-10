@@ -1,0 +1,62 @@
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.fundo{
+    background-color: rgb(182, 207, 180);
+    
+}
+
+p{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: 4px 4px rgb(2, 44, 2);
+    text-decoration: overline;
+}
+
+h2{
+    font-size: 30px;
+    
+}
+
+.botao{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.caixaEmail {
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 4px;
+}
+
+li{
+    font-size: 20px;
+}
+
+button:hover {
+    color: rgb(0, 0, 0);
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
